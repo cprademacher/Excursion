@@ -1,0 +1,59 @@
+html, body {
+    margin: 0;
+    background-color: black;
+    text-align: center;
+    font-family: Verdana;
+}
+
+header h1 {
+    font-weight: normal;
+    font-size: 50px;
+    color: white;
+    text-align: center;
+}
+
+/* Main body */
+
+main .download {
+    width: 100%;
+    text-align: center;
+}
+
+main .clickable {
+    color: aquamarine;
+    font-size: 16px;
+    text-align: center;
+}
+
+main #playloop {
+    width: 100%;
+    text-align: center;
+}
+
+main #guide {
+    font-weight: 300;
+    font-size: 42px;
+    color: white;
+}
+
+main #statement {
+    color: gray;
+    font-size: 21px;
+}
+
+main #coming-soon {
+    color: white;
+    font-size: 42px;
+    font-weight: 300;
+}
+
+/* Footer */
+
+footer {
+    width: 100%;
+}
+
+footer p {
+    text-align: right;
+    color: gray;
+}
